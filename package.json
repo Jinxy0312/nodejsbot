@@ -1,0 +1,24 @@
+{
+  "name": "oraor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "r": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jinxy0312/nodejsbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jinxy0312/nodejsbot/issues"
+  },
+  "homepage": "https://github.com/Jinxy0312/nodejsbot#readme"
+}
